@@ -1,0 +1,20 @@
+
+
+body {
+    background-color: #add8e6;
+}
+h1 {
+    text-align: center;
+}
+
+.unordered {
+    
+    font-size: 18px;
+    color: green;
+}
+img {
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
